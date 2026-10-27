@@ -1,8 +1,8 @@
 # Cosmas Okenyi
-Biomedical engineering student. I build mobile apps.
+Biomedical engineering student. I build mobile apps, debug apps, and design mock apps
 
 ## What I use
-Kotlin, Jetpack Compose, Python
+Kotlin, Jetpack Compose, Python, javascript, css, and html
 
 ## Projects
 - Coming soon
