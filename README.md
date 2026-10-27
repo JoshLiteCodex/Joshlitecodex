@@ -1,5 +1,11 @@
-## Hi there 👋
+# Cosmas Okenyi
+Biomedical engineering student. I build mobile apps.
 
+## What I use
+Kotlin, Jetpack Compose, Python
+
+## Projects
+- Coming soon
 <!--
 **JoshLiteCodex/Joshlitecodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
